@@ -90,4 +90,4 @@ require (
 )
 
 // To be removed once terraform docs allows subcategories
-replace github.com/hashicorp/terraform-plugin-docs => github.com/fuochi/terraform-plugin-docs v0.0.0-20240729062552-1d42e8d394ae
+replace github.com/hashicorp/terraform-plugin-docs => github.com/fuochi/terraform-plugin-docs v0.0.0-20240723170711-fd28c5cde32d

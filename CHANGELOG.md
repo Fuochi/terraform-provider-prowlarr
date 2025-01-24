@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/devopsarr/terraform-provider-prowlarr/compare/v3.0.1...v3.0.2) (2025-01-24)
+
+
+### Bug Fixes
+
+* wrong guide path ([ff57054](https://github.com/devopsarr/terraform-provider-prowlarr/commit/ff57054c8900e69660bb5fd4a5980ab61fbd6217))
+
 ## [3.0.1](https://github.com/devopsarr/terraform-provider-prowlarr/compare/v3.0.0...v3.0.1) (2025-01-24)
 
 
